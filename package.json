@@ -1,0 +1,19 @@
+{
+  "name": "bot4W",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-url": "^2.3.0",
+    "node-telegram-bot-api": "^0.30.0",
+    "request": "^2.83.0",
+    "unsplash-api": "^1.2.0"
+  }
+}
